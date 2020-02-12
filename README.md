@@ -1,4 +1,4 @@
-# Stackery Hello World - Node.js 10
+# Stackery Hello World - Node.js
 
 This is a sample template for a serverless AWS Lambda application, written in Node.js.
 
